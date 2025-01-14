@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\Proyectos_C\u002B\u002B\\K-means\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{385A93E9-D3E0-4058-BDB9-6634D6054B63}|K-mins\\K-mins.vcxproj|D:\\Proyectos\\Proyectos_C\u002B\u002B\\K-means\\K-mins\\K-means.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{385A93E9-D3E0-4058-BDB9-6634D6054B63}|K-mins\\K-mins.vcxproj|solutionrelative:K-mins\\K-means.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "K-means.cpp",
+              "DocumentMoniker": "D:\\Proyectos\\Proyectos_C\u002B\u002B\\K-means\\K-mins\\K-means.cpp",
+              "RelativeDocumentMoniker": "K-mins\\K-means.cpp",
+              "ToolTip": "D:\\Proyectos\\Proyectos_C\u002B\u002B\\K-means\\K-mins\\K-means.cpp",
+              "RelativeToolTip": "K-mins\\K-means.cpp",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAwG8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T21:49:33.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
